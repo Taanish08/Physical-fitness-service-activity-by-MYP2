@@ -1,0 +1,29 @@
+#contact iframe
+{
+    width: 100%;
+}
+.travel_div {
+border:1px solid bisque
+
+}
+.travel_div h4 {
+font-size: 60px !important; 
+}
+.movie_head {
+    font-size:20px;
+    padding:22px;
+    border-radius: 10px;
+    margin-bottom:15px;
+
+}
+
+.movie_head i {
+    float:right;
+}
+.movietext span {
+    color:turquoise;
+}
+
+body {
+    background-color: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
